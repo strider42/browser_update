@@ -1,0 +1,15 @@
+<?php
+
+/**
+ * @file
+ * Loads "browser check" library with user configurable settings for display.
+ */
+
+use Drupal\Core\Extension\ModuleHandler;
+
+/**
+ *  Description
+ */
+function browser_update_get_path($name, $base_path = FALSE) {
+
+}

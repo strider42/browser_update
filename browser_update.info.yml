@@ -1,0 +1,9 @@
+name: Browser Update
+type: module
+description: Include the "browser update" javascript library to notify users that use outdated browsers.
+# core: 8.x
+
+# Information added by Drupal.org packaging script on 2014-10-13
+version: '8.x-1.x-dev'
+core: '8.x'
+project: 'browser_update'
